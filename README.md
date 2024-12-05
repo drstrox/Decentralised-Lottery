@@ -32,9 +32,4 @@ Select the Solidity file containing your lottery smart contract.
 Compile the contract by clicking on the "Solidity Compiler" tab and then clicking on "Compile."
 Deploy the contract by clicking on the "Deploy & Run Transactions" tab.
 
-Interact with the Contract:
-Use the provided interface in Remix IDE to interact with your lottery contract.
-You can fund the contract, participate in the lottery, and trigger the selection of a winner.
 
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
